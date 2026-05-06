@@ -20,7 +20,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,js,ts,html,css,sass,tailwind,bootstrap" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,sass,tailwind,bootstrap" alt="skills" />
 </p>
 
 ---
