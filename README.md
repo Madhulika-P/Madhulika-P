@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Madhulika</h1>
-<h3 align="center">Frontend Engineer | React.js|Node.js| JavaScript | HTML | CSS</h3>
+<h3 align="center">Frontend Engineer | React.js| Node.js | JavaScript | HTML | CSS</h3>
 
 ---
 
